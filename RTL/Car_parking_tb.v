@@ -1,4 +1,4 @@
-module assignment1_tb();
+module car_parking_tb();
 reg [3:0] password;
 reg [31:0] vehicle_no;
 reg vehicle_present;
