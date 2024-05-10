@@ -17,6 +17,9 @@ This Verilog project simulates a simple car parking system.
 - `password_check`: Checks if the entered password is correct.
 - `car_parked`: Car parked output.
 
+## Simulation 
+![car_parking](https://github.com/Nilesh002/Car-Parking-System/assets/105161049/e658b23d-9db7-4f9d-9356-bd2a7997f67f)
+
 ## Usage
 1. Clone the repository.
 2. Run the simulation using a Verilog simulator.
